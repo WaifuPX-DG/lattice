@@ -1,0 +1,20 @@
+[
+  {
+    "author": "WPX",
+    "collections": "My Hero Academia,Men",
+    "copyright": "My Hero Academia",
+    "downloadable": true,
+    "name": "Deku",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/deku.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/deku_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+    },
+  {
+    "author": "WaifuPX",
+    "collections": "K-ON!,Poster",
+    "name": "Poster Yui",
+    "thumbnail": "https://raw.githubusercontent.com/dg-encrypt/dg.data/main/Main/Encrypt/Wll/Legacy/poster1_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/poster1.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  }
+]
