@@ -1,4 +1,64 @@
 [
+    {
+    "author": "WPX",
+    "collections": "Vtubers",
+    "copyright": "HOLOLIVE",
+    "downloadable": true,
+    "name": "Gawr Gura",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/11.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/11_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+    },
+    {
+    "author": "WPX",
+    "collections": "Gakkou Gurashi!",
+    "copyright": "Gakkou Gurashi!",
+    "downloadable": true,
+    "name": "Kurumi Ebisuzawa",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/10.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/10_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+    },
+     {
+    "author": "WPX",
+    "collections": "Dropkick On My Devil!",
+    "copyright": "Jashin-chan Dropkick",
+    "downloadable": true,
+    "name": "Yurine Hanazono",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/9.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/9_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+    },
+     {
+    "author": "WPX",
+    "collections": "Love Live",
+    "copyright": "Love Live: Sunshine",
+    "downloadable": true,
+    "name": "Dia Kurosawa",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/8.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/8_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+    },
+    {
+    "author": "WPX",
+    "collections": "SAO",
+    "copyright": "Swort Art Online",
+    "downloadable": true,
+    "name": "Asada Shino",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/7.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/7_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+    },
+   {
+    "author": "WPX",
+    "collections": "Domestic na Kanojo",
+    "copyright": "Domestic na Kanojo",
+    "downloadable": true,
+    "name": "Rui Tachibana",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/6_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+    },
    {
     "author": "WPX",
     "collections": "K-ON!",
