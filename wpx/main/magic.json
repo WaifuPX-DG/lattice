@@ -1,6 +1,24 @@
 [
    {
     "author": "WPX",
+    "collections": "Vtubers",
+    "copyright": "Vtubers",
+    "name": "Korone Inugami",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/22.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/22_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
+    "collections": "Kuma³ Bear",
+    "copyright": "Kuma Kuma Kuma Bear",
+    "name": "Yuna",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/21.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/21_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
     "collections": "Kuma³ Bear",
     "copyright": "Kuma Kuma Kuma Bear",
     "name": "Yuna",
