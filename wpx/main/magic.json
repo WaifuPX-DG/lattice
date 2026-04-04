@@ -1,6 +1,42 @@
 [
    {
     "author": "WPX",
+    "collections": "Akame Ga Kill!",
+    "copyright": "Akame Ga Kill!",
+    "name": "Akame",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/39.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/39_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
+    "collections": "Evangelion,Amoled",
+    "copyright": "Evangelion",
+    "name": "Asuka",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/38.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/38_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
+    "collections": "SAO",
+    "copyright": "Swort Art Online",
+    "name": "Asuna",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/37.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/37_th.jpeg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
+    "collections": "Vtubers",
+    "copyright": "Hololive",
+    "name": "Gawr Gura",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/36.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/36_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
     "collections": "Bunny Girl Senpai,Amoled",
     "copyright": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
     "name": "Mai Sakurajima",
