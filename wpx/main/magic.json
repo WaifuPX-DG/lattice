@@ -1,6 +1,33 @@
 [
    {
     "author": "WPX",
+    "collections": "K-ON!,Amoled",
+    "copyright": "K-ON!",
+    "name": "Yui Hirasawa",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/25.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/25_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
+    "collections": "Kobayashi-San",
+    "copyright": "Kobayashi-San Chi no Maid Dragon",
+    "name": "Tohru",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/24.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/24_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
+    "collections": "Love Live",
+    "copyright": "Love Live",
+    "name": "Nico Yazawa",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/23.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/23_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
     "collections": "Vtubers",
     "copyright": "Vtubers",
     "name": "Korone Inugami",
