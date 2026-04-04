@@ -1,6 +1,42 @@
 [
    {
     "author": "WPX",
+    "collections": "Evangelion",
+    "copyright": "Evangelion",
+    "name": "Rei Ayanami",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/29.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/29_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
+    "collections": "YuruYuri",
+    "copyright": "YuruYuri",
+    "name": "Kyoko Toshino",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/28.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/28_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
+    "collections": "Gabriel DropOut",
+    "copyright": "Gabriel DropOut",
+    "name": "Raphiel",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/27.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/27_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
+    "collections": "Toradora!",
+    "copyright": "Toradora!",
+    "name": "Aisaka Taiga",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/26.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/26_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
     "collections": "K-ON!,Amoled",
     "copyright": "K-ON!",
     "name": "Yui Hirasawa",
