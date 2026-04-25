@@ -1,6 +1,123 @@
 [
   {
     "author": "WPX",
+    "collections": "The Idolm@ster",
+    "copyright": "The Idolm@ Ster: Shiny Colors",
+    "name": "Toru Asakura",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/159_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/159.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Dropout Idol Fruit Tart",
+    "copyright": "Ochikobore Fruit Tart",
+    "name": "Ino/Roko",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/158_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/158.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Dropout Idol Fruit Tart",
+    "copyright": "Ochikobore Fruit Tart",
+    "name": "Roko/Ino",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/157_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/157.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Love Live",
+    "copyright": "Love Live: Sunshine",
+    "downloadable": false,
+    "name": "Leah Kazuno",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/156_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/156.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Kobayashi-San",
+    "copyright": "Kobayashi-San Chi no Maid Dragon",
+    "downloadable": false,
+    "name": "Kanna",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/155_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/155.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Princess Connect Re:dive",
+    "copyright": "Princess Connect Re:dive",
+    "name": "Kokoro Natsume",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/154_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/154.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Bunny Girl Senpai",
+    "copyright": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "name": "Mai Sakurajima",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/153_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/153.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "The Idolm@ster",
+    "copyright": "The Idolm@ster",
+    "name": "Haruka Amami",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/152_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/152.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Love Live",
+    "copyright": "Love Live!",
+    "downloadable": false,
+    "name": "Maki Nishikino",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/151_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/151.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Princess Connect Re:dive",
+    "copyright": "Princess Connect Re:dive",
+    "name": "Kokoro Natsume",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/150_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/150.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Konosuba,NSFW",
+    "copyright": "Konosuba",
+    "downloadable": false,
+    "name": "Aqua",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/149_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/149.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Chunibyo Demo Koi ga Shitai!",
+    "copyright": "Chunibyo Demo Koi ga Shitai!",
+    "name": "Rikka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/1148_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/148.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Chunibyo Demo Koi ga Shitai!",
+    "copyright": "Chunibyo Demo Koi ga Shitai!",
+    "name": "Rikka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/147_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/147.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Konosuba",
+    "copyright": "Konosuba",
+    "downloadable": false,
+    "name": "Yunyun",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/146_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/146.jpg"
+  },
+  {
+    "author": "WPX",
     "collections": "Plastic Memories",
     "copyright": "Plastic Memories",
     "name": "Isla",
