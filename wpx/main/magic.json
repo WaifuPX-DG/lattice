@@ -1,6 +1,84 @@
 [
   {
-    "author": "WaifuPX",
+    "author": "WPX",
+    "collections": "Konosuba",
+    "copyright": "Konosuba",
+    "name": "Megumin",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/130_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/130.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Vtubers",
+    "name": "Sakura Miko",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/129_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/129.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Vtubers",
+    "name": "Pekora",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/128_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/128.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Vtubers",
+    "name": "Pekora",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/127_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/127.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Konosuba",
+    "copyright": "Konosuba",
+    "name": "Aqua",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/126_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/126.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Rent A Girlfriend,Cosplay",
+    "copyright": "Kanojo Okarishimasu",
+    "downloadable": false,
+    "name": "Chizuru",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/125_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/125.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Darling In The Franxx,Street Moe",
+    "copyright": "Darling In The Franxx",
+    "name": "Zero Two",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/124_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/124.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Kimetsu No Yaiba,Street Moe",
+    "copyright": "Kimetsu No Yaiba",
+    "name": "Shinobu",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/123_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/123.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Tokyo Ghoul",
+    "copyright": "Tokyo Ghoul",
+    "name": "Touka Kirishima",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/122_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/122.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Tokyo Ghoul",
+    "copyright": "Tokyo Ghoul",
+    "name": "Touka Kirishima",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/121_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/121.png"
+  },
+  {
+    "author": "WPX",
     "collections": "Chunibyo Demo Koi ga Shitai!",
     "copyright": "Chunibyo Demo Koi ga Shitai!",
     "name": "Shinka Nibutani",
@@ -8,7 +86,7 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/120.png"
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Chunibyo Demo Koi ga Shitai!",
     "copyright": "Chunibyo Demo Koi ga Shitai!",
     "name": "Shinka Nibutani",
@@ -16,7 +94,7 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/119.jpg"
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Bunny Girl Senpai",
     "copyright": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
     "name": "Mai Sakurajima",
@@ -24,7 +102,7 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/118.jpg"
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Bunny Girl Senpai",
     "copyright": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
     "name": "Mai Sakurajima",
@@ -32,7 +110,7 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/117.png"
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Bunny Girl Senpai",
     "copyright": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
     "downloadable": false,
@@ -41,7 +119,7 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/116.png"
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Eromanga Sensei",
     "copyright": "Eromanga Sensei",
     "name": "Sagiri",
@@ -49,7 +127,7 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/115.jpg"
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "One Punch-Man,Male",
     "copyright": "One Punch-Man",
     "name": "Saitama",
@@ -57,7 +135,7 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/114.jpg"
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Cosplay,Majo no Tabitabi",
     "copyright": "Majo no Tabitabi",
     "downloadable": true,
@@ -66,7 +144,7 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/113.jpg"
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Chunibyo Demo Koi ga Shitai!",
     "copyright": "Chunibyo Demo Koi ga Shitai!",
     "downloadable": true,
@@ -75,7 +153,7 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/112.jpg"
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "One Piece",
     "copyright": "One Piece",
     "name": "Shirahoshi",
@@ -84,7 +162,7 @@
      "dimensions": "Personal use only. No commercial purposes."
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Vtubers",
     "name": "Korone",
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/110.png",
@@ -92,7 +170,7 @@
      "dimensions": "Personal use only. No commercial purposes."
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Kuma³ Bear",
     "copyright": "Kuma Kuma Kuma Bear",
     "name": "Yuna",
@@ -101,7 +179,7 @@
      "dimensions": "Personal use only. No commercial purposes."
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Genshin Impact,Street Moe",
     "copyright": "Genshin Impact",
     "name": "Amy",
@@ -110,7 +188,7 @@
     "dimensions": "Personal use only. No commercial purposes."
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Date a Live",
     "copyright": "Date a Live",
     "name": "Yoshino",
@@ -119,7 +197,7 @@
      "dimensions": "Personal use only. No commercial purposes."
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Date a Live",
     "copyright": "Date a Live",
     "name": "Yoshino",
@@ -128,7 +206,7 @@
      "dimensions": "Personal use only. No commercial purposes."
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Date a Live",
     "copyright": "Date a Live",
     "name": "Yoshino",
@@ -137,7 +215,7 @@
      "dimensions": "Personal use only. No commercial purposes."
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Konosuba,Street Moe",
     "copyright": "Konosuba",
     "name": "Megumin",
@@ -146,7 +224,7 @@
      "dimensions": "Personal use only. No commercial purposes."
   },
   {
-    "author": "WaifuPX",
+    "author": "WPX",
     "collections": "Fate Series",
     "copyright": "Fate/Stay Night",
     "name": "Saber",
