@@ -1,6 +1,86 @@
 [
   {
     "author": "WPX",
+    "collections": "Re:Zero",
+    "copyright": "Re:Zero",
+    "name": "Echidna",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/268_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/268.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Konosuba",
+    "copyright": "Konosuba",
+    "name": "YunYun",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/267_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/267.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Hitsugi no Chaika",
+    "copyright": "Hitsugi no Chaika",
+    "name": "Chaika",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/266_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/266.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Hitsugi no Chaika",
+    "copyright": "Hitsugi no Chaika",
+    "name": "Chaika",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/265_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/265.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Go-Tobun no Hanayome",
+    "copyright": "Go-Tobun no Hanayome",
+    "name": "Miku Nakano",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/264_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/264.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "downloadable": true,
+    "name": "Before Sleep",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/263_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/263.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP,Horizontales",
+    "downloadable": true,
+    "name": "Listen",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/262_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/262.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "downloadable": true,
+    "name": "War",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/261_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/261.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "downloadable": true,
+    "name": "Connect",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/260_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/260.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "downloadable": false,
+    "name": "Retro",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/259_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/259.jpg"
+  },
+  {
+    "author": "WPX",
     "collections": "Realistic JP",
     "downloadable": true,
     "name": "Street Moe",
