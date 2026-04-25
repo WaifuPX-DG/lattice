@@ -1,6 +1,66 @@
 [
   {
     "author": "WPX",
+    "collections": "Realistic JP",
+    "downloadable": true,
+    "name": "Street Moe",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/258_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/258.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "downloadable": false,
+    "name": "Ghotic",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/257_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/257.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Evangelion",
+    "copyright": "Evangelion",
+    "name": "Asuka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/256_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/256.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Evangelion",
+    "copyright": "Evangelion",
+    "name": "Asuka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/255_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/255.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "name": "Smoke",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/254_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/254.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "name": "Sky",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/253_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/253.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "name": "Kawaii Metal",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/252_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/252.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact,Gamers",
+    "name": "Ganyu",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/251_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/251.jpg"
+  },
+  {
+    "author": "WPX",
     "collections": "Yuru Camp ∆",
     "copyright": "Yuru Camp ∆",
     "name": "Nadeshiko & Chiaki",
