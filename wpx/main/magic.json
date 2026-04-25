@@ -1,6 +1,117 @@
 [
   {
     "author": "WPX",
+    "collections": "Kakegurui",
+    "copyright": "Kakegurui",
+    "name": "Yumeko Jabami",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/182_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/182.jpg"
+  },
+  {
+    "author": "@ca_noske",
+    "collections": "Realistic JP",
+    "downloadable": false,
+    "name": "Art Winner",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/181_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/181.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Bunny Girl Senpai",
+    "copyright": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "name": "Mai Sakurajima",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/180_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/180.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "BanG Dream!",
+    "copyright": "BanG Dream!",
+    "name": "Yukina Minato",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/179_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/179.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Rent A Girlfriend",
+    "copyright": "Kanojo Okarishimasu",
+    "downloadable": true,
+    "name": "Sumi",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/178_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/178.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Majo no Tabitabi",
+    "copyright": "Majo no Tabitabi",
+    "downloadable": true,
+    "name": "Elaina",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/177_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/177.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "name": "Waifu",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/176.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Kimetsu No Yaiba",
+    "copyright": "Kimetsu No Yaiba",
+    "name": "Demon Slayer",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/175_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/175.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Love Live",
+    "copyright": "Love Live!",
+    "name": "Love Live",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/174_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/174.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Love Live",
+    "copyright": "Love Live Sunshine",
+    "downloadable": false,
+    "name": "Vibrant Color",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/173_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/173.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact,Gamers",
+    "name": "Klee",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/172_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/172.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact,Gamers",
+    "name": "Klee",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/171_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/171.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "King Of Fighters,Gamers",
+    "name": "Leona Heidern",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/170_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/170.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Kaguya-Sama:Love Is War",
+    "copyright": "Kaguya-Sama:Love Is War",
+    "downloadable": false,
+    "name": "Chika",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/169_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/169.jpg"
+  },
+  {
+    "author": "WPX",
     "collections": "Overlord,Male",
     "copyright": "Overlord",
     "name": "Sebas",
