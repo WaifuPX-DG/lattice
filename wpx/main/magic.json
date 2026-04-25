@@ -1,6 +1,89 @@
 [
   {
     "author": "WPX",
+    "collections": "SAO",
+    "copyright": "Swort Art Online",
+    "name": "Asada Shino",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/240_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/240.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Little Witch Academia",
+    "copyright": "Little Witch Academia",
+    "name": "Sucy",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/239_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/239.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Little Witch Academia",
+    "copyright": "Little Witch Academia",
+    "name": "Amanda & Friends",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/238_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/238.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Little Witch Academia",
+    "copyright": "Little Witch Academia",
+    "name": "Lotte",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/237.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Little Witch Academia",
+    "copyright": "Little Witch Academia",
+    "name": "Constanze",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/236_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/236.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Akashic Records of Bastard Magic Instructor",
+    "copyright": "Rokudenashi Majutsu Koushi To Akashic Records",
+    "downloadable": true,
+    "name": "Re-L",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/235_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/235.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Akashic Records of Bastard Magic Instructor",
+    "copyright": "Rokudenashi Majutsu Koushi To Akashic Records",
+    "downloadable": true,
+    "name": "Re-L",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/234_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/234.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Rent A Girlfriend",
+    "copyright": "Kanojo Okarishimasu",
+    "downloadable": false,
+    "name": "Ruka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/233_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/233.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Yuru Camp ∆",
+    "copyright": "Yuru Camp ∆",
+    "downloadable": false,
+    "name": "Rin Shima",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/232_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/232.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Evangelion",
+    "copyright": "Evangelion",
+    "name": "Rei Ayanami",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/231_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/231.jpg"
+  },
+  {
+    "author": "WPX",
     "collections": "Evangelion",
     "copyright": "Evangelion",
     "name": "Rei Ayanami",
