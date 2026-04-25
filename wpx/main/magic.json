@@ -1,6 +1,79 @@
 [
   {
     "author": "WPX",
+    "collections": "Overlord",
+    "copyright": "Overlord",
+    "name": "Sebas",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/168_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/168.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Overlord",
+    "copyright": "Overlord",
+    "downloadable": false,
+    "name": "Albedo",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/167_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/167.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Love Live",
+    "copyright": "Love Live: Nijigasaki",
+    "name": "Kasumi",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/166_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/166.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Love Live",
+    "copyright": "Love Live: Nijigasaki",
+    "name": "Yuki Setsuna",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/165_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/165.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Eromanga Sensei",
+    "copyright": "Eromanga Sensei",
+    "downloadable": false,
+    "name": "Sagiri",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/164_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/164.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "BanG Dream!",
+    "copyright": "BanG Dream!",
+    "name": "Raise A Suilen",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/163_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/163.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Wataten",
+    "copyright": "Wataten!: An Angel Flew Down to Me",
+    "name": "Koko Matsumoto",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/162_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/162.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Vtubers",
+    "name": "Gawr Gura",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/161_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/161.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "The Idolm@ster",
+    "copyright": "The Idolm@ster Million Live!",
+    "name": "Sayoko Takayama",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/160_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/160.jpg"
+  },
+  {
+    "author": "WPX",
     "collections": "The Idolm@ster",
     "copyright": "The Idolm@ Ster: Shiny Colors",
     "name": "Toru Asakura",
