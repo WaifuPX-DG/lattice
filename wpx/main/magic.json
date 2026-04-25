@@ -1,6 +1,81 @@
 [
   {
     "author": "WaifuPX",
+    "collections": "Chunibyo Demo Koi ga Shitai!",
+    "copyright": "Chunibyo Demo Koi ga Shitai!",
+    "name": "Shinka Nibutani",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/120_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/120.png"
+  },
+  {
+    "author": "WaifuPX",
+    "collections": "Chunibyo Demo Koi ga Shitai!",
+    "copyright": "Chunibyo Demo Koi ga Shitai!",
+    "name": "Shinka Nibutani",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/119_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/119.jpg"
+  },
+  {
+    "author": "WaifuPX",
+    "collections": "Bunny Girl Senpai",
+    "copyright": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "name": "Mai Sakurajima",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/118_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/118.jpg"
+  },
+  {
+    "author": "WaifuPX",
+    "collections": "Bunny Girl Senpai",
+    "copyright": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "name": "Mai Sakurajima",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/117_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/117.png"
+  },
+  {
+    "author": "WaifuPX",
+    "collections": "Bunny Girl Senpai",
+    "copyright": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "downloadable": false,
+    "name": "Mai Sakurajima",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/116_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/116.png"
+  },
+  {
+    "author": "WaifuPX",
+    "collections": "Eromanga Sensei",
+    "copyright": "Eromanga Sensei",
+    "name": "Sagiri",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/115_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/115.jpg"
+  },
+  {
+    "author": "WaifuPX",
+    "collections": "One Punch-Man,Male",
+    "copyright": "One Punch-Man",
+    "name": "Saitama",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/114_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/114.jpg"
+  },
+  {
+    "author": "WaifuPX",
+    "collections": "Cosplay,Majo no Tabitabi",
+    "copyright": "Majo no Tabitabi",
+    "downloadable": true,
+    "name": "Elaina",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/113_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/113.jpg"
+  },
+  {
+    "author": "WaifuPX",
+    "collections": "Chunibyo Demo Koi ga Shitai!",
+    "copyright": "Chunibyo Demo Koi ga Shitai!",
+    "downloadable": true,
+    "name": "Rikka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/112_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/112.jpg"
+  },
+  {
+    "author": "WaifuPX",
     "collections": "One Piece",
     "copyright": "One Piece",
     "name": "Shirahoshi",
