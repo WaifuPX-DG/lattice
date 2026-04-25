@@ -27,7 +27,7 @@
     "author": "WPX",
     "collections": "Love Live",
     "copyright": "Love Live: Sunshine",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Leah Kazuno",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/156_th.jpg",
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/156.jpg"
@@ -36,7 +36,7 @@
     "author": "WPX",
     "collections": "Kobayashi-San",
     "copyright": "Kobayashi-San Chi no Maid Dragon",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Kanna",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/155_th.jpg",
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/155.jpg"
@@ -69,7 +69,7 @@
     "author": "WPX",
     "collections": "Love Live",
     "copyright": "Love Live!",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Maki Nishikino",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/151_th.jpg",
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/151.jpg"
@@ -86,7 +86,7 @@
     "author": "WPX",
     "collections": "Konosuba,NSFW",
     "copyright": "Konosuba",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Aqua",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/149_th.jpg",
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/149.jpg"
@@ -96,7 +96,7 @@
     "collections": "Chunibyo Demo Koi ga Shitai!",
     "copyright": "Chunibyo Demo Koi ga Shitai!",
     "name": "Rikka",
-    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/1148_th.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/148_th.jpg",
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/148.jpg"
   },
   {
@@ -111,7 +111,7 @@
     "author": "WPX",
     "collections": "Konosuba",
     "copyright": "Konosuba",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Yunyun",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/146_th.jpg",
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/146.jpg"
