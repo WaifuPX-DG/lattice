@@ -1,6 +1,92 @@
 [
   {
     "author": "WPX",
+    "collections": "Hitori Bocchi",
+    "copyright": "Hitori Bocchi no Marumaru Seikatsu",
+    "downloadable": true,
+    "name": "Wa ha ha!",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/327_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/327.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "K-ON!",
+    "copyright": "K-ON!",
+    "downloadable": true,
+    "name": "Azusa",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/326_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/326.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Kaguya-Sama:Love Is War",
+    "copyright": "Kaguya-Sama:Love Is War",
+    "downloadable": true,
+    "name": "Kei",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/325_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/325.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact",
+    "downloadable": true,
+    "name": "Amber",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/324_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/324.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Vtubers",
+    "downloadable": true,
+    "name": "Okayu",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/323_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/323.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact,Horizontales",
+    "downloadable": true,
+    "name": "Hu Tao",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/322_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/322.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Konosuba",
+    "copyright": "Konosuba",
+    "downloadable": true,
+    "name": "YunYun & Megumin",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/321_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/321.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Nekopara",
+    "copyright": "Nekopara",
+    "downloadable": true,
+    "name": "Chocola",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/320_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/320.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact,Amoled",
+    "downloadable": false,
+    "name": "Mona",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/319_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/319.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Mushoku Tensei",
+    "copyright": "Mushoku Tensei",
+    "downloadable": true,
+    "name": "Eris",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/318_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/318.jpg"
+  },
+  {
+    "author": "WPX",
     "collections": "Vocaloid,Amoled",
     "downloadable": true,
     "name": "Miku",
