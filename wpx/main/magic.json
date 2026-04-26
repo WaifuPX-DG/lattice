@@ -1,6 +1,26 @@
 [
   {
     "author": "WPX",
+    "collections": "Darling In The Franxx",
+    "copyright": "Darling In The Franxx",
+    "downloadable": true,
+    "name": "Zero Two",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/580.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/580_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Bunny Girl Senpai",
+    "copyright": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "downloadable": true,
+    "name": "Mai Sakurajima",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/579.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/579_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
     "collections": "Konosuba",
     "copyright": "Konosuba",
     "downloadable": true,
