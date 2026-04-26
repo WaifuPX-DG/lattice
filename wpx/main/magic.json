@@ -1,6 +1,90 @@
 [
   {
     "author": "WPX",
+    "collections": "Vocaloid,Amoled",
+    "downloadable": true,
+    "name": "Miku",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/317_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/317.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Mushoku Tensei",
+    "copyright": "Mushoku Tensei",
+    "downloadable": true,
+    "name": "Eris",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/316_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/316.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Plastic Memories,Amoled",
+    "copyright": "Plastic Memories",
+    "downloadable": true,
+    "name": "Isla",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/315_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/315.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact,Amoled",
+    "downloadable": true,
+    "name": "Xiao",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/314_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/314.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Kaguya-Sama:Love Is War",
+    "copyright": "Kaguya-Sama:Love Is War",
+    "downloadable": true,
+    "name": "Ai Hayasaka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/313_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/313.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Yuru Camp ∆",
+    "copyright": "Horizontales,Yuru Camp ∆",
+    "downloadable": true,
+    "name": "Rin & Nadeshiko",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/312_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/312.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact",
+    "downloadable": true,
+    "name": "Xiao",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/311_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/311.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact",
+    "downloadable": true,
+    "name": "Paimon",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/310_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/310.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "downloadable": true,
+    "name": "Station",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/309_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/309.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact",
+    "downloadable": true,
+    "name": "Hu Tao",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/308_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/308.jpg"
+  },
+  {
+    "author": "WPX",
     "collections": "Fate Series",
     "copyright": "Fate/Series",
     "downloadable": true,
