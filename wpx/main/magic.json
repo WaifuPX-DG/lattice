@@ -1,6 +1,97 @@
 [
   {
     "author": "WPX",
+    "collections": "Evangelion",
+    "copyright": "Evangelion",
+    "downloadable": true,
+    "name": "Asuka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/398_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/398.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Street Moe",
+    "downloadable": true,
+    "name": "GV-001",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/397_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/397.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Kaguya-Sama:Love Is War,Street Moe",
+    "copyright": "Kaguya-Sama:Love Is War",
+    "downloadable": true,
+    "name": "Chika",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/396_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/396.jpg"
+  },
+  {
+    "author": "@ian.doge",
+    "collections": "Senko-San,Minimalist,Ian Collection",
+    "copyright": "Sewayaki Kitsune no Senko-san",
+    "dimensions": "Creado por Ian Doge, miembro de nuestro grupo en Telegram",
+    "downloadable": true,
+    "name": "Senko",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/395_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/395.png"
+  },
+  {
+    "author": "@ian.doge",
+    "collections": "Senko-San,Ian Collection",
+    "copyright": "Sewayaki Kitsune no Senko-san",
+    "dimensions": "Creado por Ian Doge, miembro de nuestro grupo en Telegram",
+    "downloadable": true,
+    "name": "Senko",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/394_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/394.png"
+  },
+  {
+    "author": "@ian.doge",
+    "collections": "Senko-San,Amoled,Ian Collection",
+    "copyright": "Sewayaki Kitsune no Senko-san",
+    "dimensions": "Creado por Ian Doge, miembro de nuestro grupo en Telegram",
+    "downloadable": true,
+    "name": "Senko",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/393_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/393.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Wonder Egg Priority",
+    "copyright": "Wonder Egg Priority",
+    "downloadable": true,
+    "name": "Ai Ohto",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/392_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/392.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "InuYasha",
+    "copyright": "InuYasha",
+    "downloadable": true,
+    "name": "Kagome Higurashi",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/391_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/391.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Majo no Tabitabi",
+    "copyright": "Majo no Tabitabi",
+    "downloadable": true,
+    "name": "Elaina",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/390_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/390.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Vtubers",
+    "downloadable": true,
+    "name": "Mori Calliope",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/389_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/389.jpg"
+  },
+  {
+    "author": "WPX",
     "collections": "Azur Lane",
     "copyright": "Azur Lane",
     "downloadable": true,
