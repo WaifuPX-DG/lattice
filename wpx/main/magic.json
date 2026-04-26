@@ -1,6 +1,36 @@
 [
   {
     "author": "WPX",
+    "collections": "The Apothecary Diaries,M3 Expressive",
+    "copyright": "Kusuriya no Hitorigoto",
+    "downloadable": true,
+    "name": "Maomao",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/628.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/628_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Sousou no Frieren",
+    "copyright": "Sousou no Frieren",
+    "downloadable": true,
+    "name": "Frieren",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/627.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/627_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Overlord,Male",
+    "copyright": "Overlord",
+    "downloadable": true,
+    "name": "Ainz",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/626.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/626_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
     "collections": "Spy x Family",
     "copyright": "Spy x Family",
     "downloadable": true,
@@ -11,7 +41,7 @@
   },
   {
     "author": "WPX",
-    "collections": "Kimetsu No Yaiba,Amoled,Men",
+    "collections": "Kimetsu No Yaiba,Amoled,Male",
     "copyright": "Kimetsu No Yaiba",
     "downloadable": true,
     "name": "Inosuke Hashibira",
@@ -21,7 +51,7 @@
   },
   {
     "author": "WPX",
-    "collections": "My Hero Academia,Men",
+    "collections": "My Hero Academia,Male",
     "copyright": "My Hero Academia",
     "downloadable": true,
     "name": "Deku",
