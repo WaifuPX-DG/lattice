@@ -1,6 +1,116 @@
 [
   {
     "author": "WPX",
+    "collections": "Kaguya-Sama:Love Is War",
+    "copyright": "Kaguya-Sama:Love Is War",
+    "downloadable": true,
+    "name": "Kaguya",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/370_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/370.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Kaguya-Sama:Love Is War",
+    "copyright": "Kaguya-Sama:Love Is War",
+    "downloadable": true,
+    "name": "Kaguya",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/369_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/369.jpeg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact,Amoled,Male",
+    "downloadable": true,
+    "name": "Diluc",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/368_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/368.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact,Male",
+    "downloadable": true,
+    "name": "Diluc",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/367_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/367.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact,Amoled",
+    "downloadable": true,
+    "name": "Eula",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/366_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/366.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact",
+    "downloadable": true,
+    "name": "Eula",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/365_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/365.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "downloadable": true,
+    "name": "Traveler",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/364_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/364.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact",
+    "downloadable": true,
+    "name": "Amber",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/363_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/363.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "ZombieLand Saga",
+    "copyright": "ZombieLand Saga",
+    "downloadable": true,
+    "name": "Junko Konno",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/362_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/362.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Vtubers",
+    "downloadable": true,
+    "name": "Gawr Gura",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/361_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/361.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Girls Und Panzer,Horizontales",
+    "copyright": "Girls Und Panzer",
+    "downloadable": true,
+    "name": "Girls Und Panzer",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/360_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/360.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "K-ON!,Horizontales",
+    "copyright": "K-ON!",
+    "downloadable": true,
+    "name": "HTT",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/359_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/359.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Oregairu",
+    "copyright": "Yahari Ore no Seishun Love Come wa Machigatteiru",
+    "downloadable": false,
+    "name": "Yukino Yukinoshita",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/358_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/358.jpg"
+  },
+  {
+    "author": "WPX",
     "collections": "Hitori Bocchi",
     "copyright": "Hitori Bocchi no Marumaru Seikatsu",
     "downloadable": true,
