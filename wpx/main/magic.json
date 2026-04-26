@@ -1,6 +1,227 @@
 [
   {
     "author": "WPX",
+    "collections": "Realistic JP",
+    "downloadable": true,
+    "name": "Girl",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/452_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/452.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "downloadable": true,
+    "name": "Yes My Dark",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/451_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/451.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Komi Can't Communicate",
+    "copyright": "Komi-san Wa Komyushou Desu",
+    "downloadable": true,
+    "name": "Komi & Tadano",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/450_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/450.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Hyouka",
+    "copyright": "Hyouka",
+    "downloadable": true,
+    "name": "Eru Chitanda",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/449_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/449.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Bunny Girl Senpai",
+    "copyright": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "downloadable": true,
+    "name": "Mai Sakurajima",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/448_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/448.jpg"
+  },
+  {
+    "author": "@ian.doge",
+    "collections": "Komi Can't Communicate,Minimalist,Ian Collection",
+    "copyright": "Komi-san Wa Komyushou Desu",
+    "downloadable": true,
+    "name": "Komi Shouko",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/447_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/447.jpeg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Himouto! Umaru-Chan",
+    "copyright": "Himouto! Umaru-Chan",
+    "downloadable": true,
+    "name": "Umaru Doma",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/446_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/446.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Oregairu",
+    "copyright": "Yahari Ore no Seishun Love Come wa Machigatteiru",
+    "downloadable": true,
+    "name": "Shizuka Hiratsuka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/445_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/445.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Monogatari",
+    "copyright": "Monogatari Series",
+    "downloadable": true,
+    "name": "Senjougahara Hitagi",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/444_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/444.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Nagatoro-San",
+    "copyright": "Ijiranaide, Nagatoro-san",
+    "downloadable": true,
+    "name": "Hayase Nagatoro",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/443_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/443.jpg"
+  },
+  {
+    "author": "Kei Mochizuki",
+    "collections": "Realistic JP",
+    "copyright": "Kei Mochizuki",
+    "downloadable": true,
+    "name": "Shibuya",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/442_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/442.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Chainsaw Man",
+    "copyright": "Chainsaw Man",
+    "downloadable": true,
+    "name": "Power",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/441_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/441.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Cowboy Bebop,Amoled",
+    "copyright": "Cowboy Bebop",
+    "downloadable": true,
+    "name": "CB Art",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/440_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/440.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP,H a l l o w e e n",
+    "downloadable": true,
+    "name": "Girl RD",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/439_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/439.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Konosuba,H a l l o w e e n",
+    "copyright": "Konosuba",
+    "downloadable": true,
+    "name": "Darkness",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/438_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/438.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact,H a l l o w e e n",
+    "copyright": "Genshin Impact",
+    "downloadable": true,
+    "name": "Ganyu",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/437_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/437.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Chunibyo Demo Koi ga Shitai!,H a l l o w e e n",
+    "copyright": "Chunibyo Demo Koi ga Shitai!",
+    "downloadable": true,
+    "name": "Rikka Takanashi",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/436_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/436.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Jibaku Shonen Hanako-Kun,H a l l o w e e n",
+    "copyright": "Jibaku Shonen Hanako-Kun",
+    "downloadable": true,
+    "name": "Yashiro Nene & Aoi",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/435_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/435.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact,H a l l o w e e n",
+    "copyright": "Genshin Impact",
+    "downloadable": true,
+    "name": "Mona",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/434_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/434.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Goblin Slayer",
+    "copyright": "Goblin Slayer",
+    "downloadable": true,
+    "name": "Onna Shinkan",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/433_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/433.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Konosuba",
+    "copyright": "Konosuba",
+    "downloadable": false,
+    "name": "Megumin",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/432_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/432.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Konosuba",
+    "copyright": "Konosuba",
+    "downloadable": false,
+    "name": "Megumin",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/431_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/431.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Himouto! Umaru-Chan",
+    "copyright": "Himouto! Umaru-Chan",
+    "downloadable": true,
+    "name": "Umaru",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/430_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/430.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Vocaloid,H a l l o w e e n",
+    "downloadable": true,
+    "name": "Miku",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/429_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/429.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact,H a l l o w e e n",
+    "copyright": "Genshin Impact",
+    "downloadable": true,
+    "name": "Hu Tao",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/428_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/428.png"
+  },
+  {
+    "author": "WPX",
     "collections": "Gabriel DropOut",
     "copyright": "Gabriel DropOut",
     "downloadable": true,
