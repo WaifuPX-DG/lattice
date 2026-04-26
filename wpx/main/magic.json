@@ -1,6 +1,16 @@
 [
   {
     "author": "WPX",
+    "collections": "Go-Tobun no Hanayome",
+    "copyright": "Go-Tobun no Hanayome",
+    "downloadable": true,
+    "name": "Miku Nakano",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/562.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/562_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
     "collections": "Genshin Impact",
     "copyright": "Genshin Impact",
     "downloadable": true,
