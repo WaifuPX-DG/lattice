@@ -1,6 +1,14 @@
 [
   {
     "author": "WPX",
+    "collections": "Genshin Impact",
+    "downloadable": true,
+    "name": "Kamisato Ayaka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/424_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/424.jpg"
+  },
+  {
+    "author": "WPX",
     "collections": "Komi Can't Communicate",
     "copyright": "Komi-san Wa Komyushou Desu",
     "downloadable": true,
