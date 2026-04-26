@@ -1,6 +1,16 @@
 [
   {
     "author": "WPX",
+    "collections": "Uma Musume",
+    "copyright": "Umamusume Cinderella Gray",
+    "downloadable": true,
+    "name": "Oguri Cap",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/629.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/629_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
     "collections": "The Apothecary Diaries,M3 Expressive",
     "copyright": "Kusuriya no Hitorigoto",
     "downloadable": true,
