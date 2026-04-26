@@ -1,6 +1,106 @@
 [
   {
     "author": "WPX",
+    "collections": "Spy x Family",
+    "copyright": "Spy x Family",
+    "downloadable": true,
+    "name": "Yor Forger",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/625.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/625_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Kimetsu No Yaiba,Amoled,Men",
+    "copyright": "Kimetsu No Yaiba",
+    "downloadable": true,
+    "name": "Inosuke Hashibira",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/624.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/624_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "My Hero Academia,Men",
+    "copyright": "My Hero Academia",
+    "downloadable": true,
+    "name": "Deku",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/623.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/623_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Ninkoro,M3 Expressive",
+    "copyright": "Ninja to Koroshiya no Futarigurashi",
+    "downloadable": true,
+    "name": "Satoko Kusagakure",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/622.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/622_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Bocchi The Rock,M3 Expressive",
+    "copyright": "Bocchi The Rock",
+    "downloadable": true,
+    "name": "Kikuri Hiroi",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/621.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/621_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "copyright": "Originals Collection",
+    "downloadable": true,
+    "name": "Blue Prism",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/620.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/620_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "copyright": "Originals Collection",
+    "downloadable": true,
+    "name": "Autumn",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/619.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/619_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Zenless Zone Zero,Gamers",
+    "copyright": "Zenless Zone Zero",
+    "downloadable": true,
+    "name": "Evelyn",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/618.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/618_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Wuthering Waves,Gamers",
+    "copyright": "Wuthering Waves",
+    "downloadable": true,
+    "name": "Cartethyia",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/617.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/617_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Sousou no Frieren",
+    "copyright": "Sousou no Frieren",
+    "downloadable": true,
+    "name": "Übel",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/616.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/616_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
     "collections": "Evangelion,Amoled",
     "copyright": "Evangelion",
     "downloadable": true,
