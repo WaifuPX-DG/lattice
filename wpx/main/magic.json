@@ -1,6 +1,103 @@
 [
   {
     "author": "WPX",
+    "collections": "Azur Lane",
+    "copyright": "Azur Lane",
+    "downloadable": true,
+    "name": "Intrepid",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/388_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/388.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Attack Of Titan,Amoled",
+    "copyright": "Shingeki no Kyojin",
+    "downloadable": true,
+    "name": "Hanji Zoe",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/387_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/387.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Konosuba",
+    "copyright": "Konosuba",
+    "downloadable": true,
+    "name": "Megumin & YunYun",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/386_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/386.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Konosuba, Bunny Girl WPX",
+    "copyright": "Konosuba",
+    "downloadable": true,
+    "name": "Megumin",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/385_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/385.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Konosuba",
+    "copyright": "Konosuba",
+    "downloadable": true,
+    "name": "Megumin",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/384_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/384.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Darling In The Franxx",
+    "copyright": "Darling In The Franxx",
+    "downloadable": true,
+    "name": "Zero Two",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/383_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/383.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Watamote",
+    "copyright": "Watamote",
+    "downloadable": false,
+    "name": "Kuroki Tomoko",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/382_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/382.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "WPX Art",
+    "downloadable": true,
+    "name": "Art 00",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/381_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/381.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Amagi Brillant Park",
+    "copyright": "Amagi Brillant Park",
+    "downloadable": false,
+    "name": "Sento Isuzu",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/380_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/380.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "The Rising of the Shield Hero",
+    "copyright": "The Rising of the Shield Hero",
+    "downloadable": true,
+    "name": "Raphtalia",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/379_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/379.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact",
+    "downloadable": false,
+    "name": "Eula",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/378_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/378.png"
+  },
+  {
+    "author": "WPX",
     "collections": "Genshin Impact",
     "downloadable": true,
     "name": "Eula",
