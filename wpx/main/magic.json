@@ -1,6 +1,105 @@
 [
   {
     "author": "WPX",
+    "collections": "Fate Series",
+    "copyright": "Fate/Series",
+    "downloadable": true,
+    "name": "Tohsaka Rin",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/307_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/307.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Date a Live,Horizontales",
+    "copyright": "Date a Live",
+    "downloadable": true,
+    "name": "Yoshino",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/306.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Rent A Girlfriend,Horizontales",
+    "copyright": "Kanojo Okarishimasu",
+    "downloadable": true,
+    "name": "Sumi",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/305_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/305.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Evangelion",
+    "copyright": "Evangelion",
+    "downloadable": true,
+    "name": "Asuka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/304_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/304.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "name": "Moe Angel",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/303_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/303.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Konosuba",
+    "copyright": "Konosuba",
+    "downloadable": true,
+    "name": "Megumin",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/302_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/302.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Fate Series,Amoled",
+    "copyright": "Fate/Series",
+    "downloadable": true,
+    "name": "Tohsaka Rin",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/301_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/301.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact",
+    "name": "Hu Tao",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/300_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/300.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Amoled,Vtubers",
+    "name": "Shirakami Fubuki",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/299_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/299.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact",
+    "name": "Eula",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/298_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/298.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Darling In The Franxx",
+    "copyright": "Darling In The Franxx",
+    "downloadable": false,
+    "name": "Zero Two (Black Hair)",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/297_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/297.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Darling In The Franxx,Amoled",
+    "copyright": "Darling In The Franxx",
+    "downloadable": false,
+    "name": "Zero Two",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/296_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/296.jpg"
+  },
+  {
+    "author": "WPX",
     "collections": "Realistic JP",
     "name": "Gothic Maid",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/295_th.jpg",
