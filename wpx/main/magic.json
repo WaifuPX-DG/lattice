@@ -1,5 +1,89 @@
 [
   {
+    "author": "WPX",
+    "collections": "WPX Art",
+    "dimensions": "La carga a tamaño completo puede tardar más de lo normal (10MB).",
+    "downloadable": true,
+    "name": "Art 0",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/347_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/347.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "WPX Art",
+    "downloadable": true,
+    "name": "Art 1",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/346_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/346.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "WPX Art",
+    "downloadable": true,
+    "name": "Art 2",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/345_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/345.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "WPX Art",
+    "downloadable": true,
+    "name": "MB Art",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/344_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/344.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Vtubers",
+    "downloadable": true,
+    "name": "Shirakami Fubuki",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/343_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/343.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Vtubers",
+    "downloadable": true,
+    "name": "Mori Calliope",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/342_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/342.jpg"
+  },
+  {
+    "author": "@ian.doge",
+    "collections": "Fate Series,Ian Collection",
+    "copyright": "Fate/Series",
+    "dimensions": "Creado por Ian Doge, miembro del grupo la Taberna Carmesí.",
+    "downloadable": true,
+    "name": "Astolfo",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/341_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/341.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Oregairu",
+    "copyright": "Yahari Ore no Seishun Love Come wa Machigatteiru",
+    "downloadable": true,
+    "name": "Iroha Isshiki",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/340_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/340.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Oregairu",
+    "copyright": "Yahari Ore no Seishun Love Come wa Machigatteiru",
+    "downloadable": true,
+    "name": "Iroha Isshiki",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/339_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/339.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP,Street Moe",
+    "downloadable": true,
+    "name": "Street Moe Girl",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/338.jpg"
+  },
+  {
     "author": "@mproductionyt",
     "collections": "Konosuba,Bunny Girl WPX,MP Collection",
     "copyright": "Konosuba",
