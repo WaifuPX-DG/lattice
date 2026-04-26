@@ -1,6 +1,142 @@
 [
   {
     "author": "WPX",
+    "collections": "Chainsaw Man",
+    "copyright": "Chainsaw Man",
+    "downloadable": true,
+    "name": "Makima",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/413_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/413.png"
+  },
+  {
+    "author": "@ian.doge",
+    "collections": "Minimalist,The Melancholy Of Haruhi Suzumiya,Ian Collection",
+    "copyright": "Suzumiya Haruhi no Yūutsu",
+    "dimensions": "Creado por Ian Doge, miembro de nuestro grupo en Telegram",
+    "downloadable": false,
+    "name": "Haruhi Suzumiya",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/412_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/412.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact",
+    "downloadable": true,
+    "name": "Mona",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/411_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/411.jpg"
+  },
+  {
+    "author": "@ian.doge",
+    "collections": "Minimalist,The Melancholy Of Haruhi Suzumiya,Ian Collection",
+    "copyright": "Suzumiya Haruhi no Yūutsu",
+    "dimensions": "Creado por Ian Doge, miembro de nuestro grupo en Telegram",
+    "downloadable": false,
+    "name": "Haruhi Suzumiya",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/410_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/410.png"
+  },
+  {
+    "author": "WPX",
+    "collections": "Street Moe,Genshin Impact",
+    "downloadable": true,
+    "name": "Shogun Raiden",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/409_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/409.jpg"
+  },
+  {
+    "author": "@ian.doge",
+    "collections": "Minimalist,Konosuba,Ian Collection",
+    "copyright": "Konosuba",
+    "dimensions": "Creado por Ian Doge, miembro de nuestro grupo en Telegram",
+    "downloadable": true,
+    "name": "Megumin",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/408_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/408.png"
+  },
+  {
+    "author": "@ian.doge",
+    "collections": "Princess Connect Re:dive,Ian Collection",
+    "copyright": "Princess Connect Re:dive",
+    "dimensions": "Creado por Ian Doge, miembro de nuestro grupo en Telegram",
+    "downloadable": true,
+    "name": "Karyl",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/407_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/407.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Evangelion,Amoled",
+    "copyright": "Evangelion",
+    "downloadable": true,
+    "name": "Asuka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/406_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/406.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Evangelion",
+    "copyright": "Evangelion",
+    "downloadable": true,
+    "name": "Asuka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/405_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/405.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Genshin Impact",
+    "downloadable": true,
+    "name": "Mona",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/404_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/404.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Chainsaw Man,Amoled",
+    "copyright": "Chainsaw Man",
+    "downloadable": true,
+    "name": "Makima",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/403_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/403.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Chainsaw Man",
+    "copyright": "Chainsaw Man",
+    "downloadable": true,
+    "name": "Makima",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/402_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/402.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Yuru Camp ∆",
+    "copyright": "Yuru Camp ∆",
+    "downloadable": true,
+    "name": "Rin",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/401_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/401.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Evangelion",
+    "copyright": "Evangelion",
+    "downloadable": true,
+    "name": "Asuka",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/400_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/400.jpg"
+  },
+  {
+    "author": "WPX",
+    "collections": "Fate Series",
+    "copyright": "Fate/Series",
+    "downloadable": true,
+    "name": "Tohsaka Rin",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/399_th.jpg",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu/399.jpg"
+  },
+  {
+    "author": "WPX",
     "collections": "Evangelion",
     "copyright": "Evangelion",
     "downloadable": true,
