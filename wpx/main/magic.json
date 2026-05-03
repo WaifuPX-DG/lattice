@@ -1,6 +1,26 @@
 [
   {
     "author": "WPX",
+    "collections": "Ado",
+    "copyright": "Ado",
+    "downloadable": true,
+    "name": "Ado FWC26",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/637.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/637_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Ado,Amoled",
+    "copyright": "Ado",
+    "downloadable": true,
+    "name": "Ado",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/636.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/636_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
     "collections": "Uma Musume",
     "copyright": "Umamusume",
     "downloadable": true,
