@@ -1,6 +1,26 @@
 [
   {
     "author": "WPX",
+    "collections": "ZTMY",
+    "copyright": "Zutomayo",
+    "downloadable": true,
+    "name": "Nira (Mirror Tune)",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/639.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/639_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "ZTMY",
+    "copyright": "Zutomayo",
+    "downloadable": false,
+    "name": "Nira's",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/638.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/lattice/refs/heads/main/wpx/main/iris/waifu2/638_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
     "collections": "Ado",
     "copyright": "Ado",
     "downloadable": true,
